@@ -37,7 +37,5 @@ Turns raw monthly export reports into a researched list of potential importers.
 Collaborating on AI, robotics, and automation projects, as well as internships and open-source contributions.
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/
-sumaika-qasim-361348341
-
+- LinkedIn: www.linkedin.com/in/sumaika-qasim-361348341
 - Email: sumaika651@gmail.com
